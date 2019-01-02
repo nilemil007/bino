@@ -1,0 +1,972 @@
+@media (min-width: 1920px){
+/* Head Part */
+.navbar-brand {
+    margin-top: 3%;
+}
+.navbar-collapse {
+    margin-top: 3%;
+}
+.header-bg {
+    height: 1017px;
+}
+.navbar .navbar-nav .nav-link {
+    font-size: 18px;
+}
+.carousel-inner-heading h5 {
+    font-size: 24px;
+}
+.carousel-inner-heading h1 {
+    font-size: 85px;
+}
+.border-icon{
+    width: 15%;
+}
+.carousel-inner-heading p {
+    font-size: 18px;
+}
+.carousel-inner-heading a {
+    font-size: 18px;
+}
+.custom-btn-1 {
+    border-radius: 3px;
+    padding: 22px 65px;
+}
+.custom-btn-2 {
+    border-radius: 3px;
+    padding: 22px 85px;
+}
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+.custom-col {
+    width: 180px;
+    height: 180px;
+}
+.q-head h4 {
+    font-size: 26px;
+    margin-top: 35%;
+}
+.quality p {
+    font-size: 17px;
+    margin-top: 10px;
+}
+/* Our History Part */
+.monitor {
+    height: auto;
+}
+.history h3 {
+    font-size: 45px;
+}
+.history h3::before {
+    top: 35px;
+    height: 45px;
+}
+.history p {
+    font-size: 15px;
+}
+/* Our Service Part */
+.img-col img {
+    width: 100%;
+    height: auto;
+}
+.service-col h2 {
+    font-size: 35px;
+    line-height: 4;
+}
+.service-col h2::before {
+    top: 50px;
+    height: 40px;
+}
+.service-col h6 {
+    font-size: 22px;
+}
+.service-col p {
+    font-size: 17px;
+}
+/* Recent Works Part */
+.recent-works {
+    margin-top: 3%;
+}
+.recent-works h2 {
+    font-size: 3rem;
+}
+.recent-works p {
+    font-size: 20px;
+}
+.menu-2 {
+    margin: 3% 0;
+}
+/* Case Study Part */
+.case-study-col h2 {
+    font-size: 3rem;
+}
+.case-study-col p {
+    font-size: 20px;
+}
+.menu-2 a {
+    font-size: 20px;
+}
+.border-icon1{
+    width: 20%;
+}
+.caseStudy-img img {
+    height: auto;
+}
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
+}
+@media (min-width: 1600px) and (max-width: 1919.98px){
+/* Head Part */
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+/* Our Service Part */
+/* Recent Works Part */
+/* Case Study Part */
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
+}
+
+@media (min-width: 1200px) and (max-width: 1599.98px){
+/* Head Part */
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+/* Our Service Part */
+.service-col p {
+    width: 92%;
+    line-height: 1.5;
+}
+/* Recent Works Part */
+/* Case Study Part */
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+.blog-content h6 {
+    font-size: 13px;
+}
+.blog-content h5 {
+    font-size: 20px;
+}
+.blog-content p {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.blog-content a {
+    font-size: 12px;
+}
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+/* Head Part */
+.navbar-brand {
+    margin-top: 2%;
+}
+.navbar-collapse {
+    margin-top: 2%;
+}
+.carousel-inner-heading h5 {
+    font-size: 16px;
+}
+.carousel-inner-heading h1 {
+    font-size: 50px;
+}
+.carousel-inner-heading p {
+    font-size: 13px;
+}
+.carousel-inner-heading a {
+    font-size: 12px;
+}
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+.history h3 {
+    font-size: 30px;
+}
+.history h3::before {
+    top: 20px;
+}
+.history p {
+    font-size: 13px;
+}
+.our-work {
+    font-size: 13px;
+}
+/* Our Service Part */
+.service-col h2 {
+    font-size: 30px;
+}
+.service-col h6 {
+    font-size: 13px;
+}
+.service-col p {
+    font-size: 14px;
+    width: 85%;
+    line-height: normal;
+}
+.middel-icons-1 {
+    top: 31%;
+}
+.middel-icons-2 {
+    top: 57%;
+}
+.middel-icons-3 {
+    top: 84%;
+}
+/* Recent Works Part */
+/* Case Study Part */
+.caseStudy-img img {
+    height: auto;
+}
+.carousel-box {
+    height: 500px;
+}
+.carousel-item-img {
+    top: 55px;
+    width: 85px;
+    height: 85px;
+}
+.carousel-item-content h4 {
+    font-size: 15px;
+}
+.h-570 {
+    height: 522px;
+}
+.carousel-item-content p {
+    font-size: 13px;
+    margin: 20px 0px 35px;
+}
+.carousel-item-content a {
+    padding: 10px 28px;
+    font-size: 11px;
+}
+.carousel-indicators {
+    bottom: 20px;
+}
+/* Overview Part */
+.overview-content-img::after {
+    left: 16px;
+    width: 76%;
+}
+.overview-align h4 {
+    font-size: 25px;
+}
+.overview-align p {
+    font-size: 13px;
+}
+/* Our Pricing Part */
+.pricing-col {
+    height: 485px;
+}
+.starter {
+    height: 175px;
+}
+.price {
+    top: 36%;
+}
+.price-discription p {
+    font-size: 14px;
+}
+/* Our Team Part */
+.member-img {
+    top: 70px;
+}
+.member-img-2 {
+    top: 52px;
+}
+.member-img-3 {
+    top: 60px;
+}
+.member-img-4 {
+    top: 80px;
+}
+.member-img-5 {
+    top: 55px;
+}
+/* Great Integrations with Others Part */
+/* Our Blog */
+.blog-content {
+    padding: 8%;
+}
+.blog-content h6 {
+    font-size: 10px;
+}
+.blog-content h5 {
+    font-size: 18px;
+}
+.blog-content p {
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-size: 11px;
+}
+.blog-content a {
+    font-size: 12px;
+}
+/* Keep In Touch */
+.keep-content-add {
+    padding: 55px 60px 96px 60px;
+}
+/* Get Started Part */
+.get-heading h2 {
+    font-size: 30px;
+}
+.get-heading p {
+    font-size: 13px;
+}
+.get-btn {
+    font-size: 11px;
+}
+/* Footer Part */
+.copyright p {
+    font-size: 11px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+/* Head Part */
+.navbar-brand {
+    margin-top: 2%;
+}
+.carousel-inner-heading h5 {
+    font-size: 15px;
+}
+.carousel-inner-heading h1 {
+    font-size: 40px;
+    letter-spacing: 6px;
+}
+.border-icon {
+    width: 20%;
+}
+.carousel-inner-heading p {
+    font-size: 12px;
+}
+.carousel-inner-heading a {
+    font-size: 11px;
+}
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+.monitor {
+    height: 238px;
+}
+.history h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #6a6a6a;
+    position: relative;
+    padding-left: 6%;
+    line-height: 2.5;
+}
+.history h3 {
+    font-size: 25px;
+    line-height: 40px;
+}
+.history h3::before {
+    top: 6px;
+    height: 30px;
+}
+.history p {
+    font-size: 11px;
+    line-height: inherit;
+}
+.our-work {
+    font-size: 8px;
+    padding: 8px 22px;
+    margin-top: 15px;
+}
+/* Our Service Part */
+.service-col {
+    padding-right: 4.5%;
+}
+.service-col h2 {
+    font-size: 25px;
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
+.right-border {
+    height: 30px;
+    top: 7%;
+}
+.service-col h6 {
+    font-size: 14px;
+}
+.service-col p {
+    font-size: 12px;
+    width: 80%;
+    line-height: normal;
+    padding-bottom: 0;
+}
+.middel-icons-1 {
+    right: 8%;
+    top: 28%;
+}
+.middel-icons-2 {
+    right: 8%;
+    top: 56%;
+}
+.middel-icons-3 {
+    right: 8%;
+    top: 85%;
+}
+.middel-icons-1 img{
+    width: 18px;
+}
+.middel-icons-1::before {
+    top: -20px;
+    left: 11px;
+    padding: 19px;
+}
+.middel-icons-1::after {
+    top: -24px;
+    left: 7px;
+    padding: 23px;
+}
+.middel-icons-2 img{
+    width: 18px;
+}
+.middel-icons-2::before {
+    top: -20px;
+    left: 11px;
+    padding: 19px;
+}
+.middel-icons-2::after {
+    top: -24px;
+    left: 7px;
+    padding: 23px;
+}
+.middel-icons-3 img{
+    width: 18px;
+}
+.middel-icons-3::before {
+    top: -20px;
+    left: 11px;
+    padding: 19px;
+}
+.middel-icons-3::after {
+    top: -24px;
+    left: 7px;
+    padding: 23px;
+}
+.ipad{
+    width: 100%;
+}
+/* Recent Works Part */
+.recent-works {
+    margin-top: 3%;
+}
+.recent-works h2 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.recent-works p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.menu-2 a {
+    font-size: 12px;
+}
+/* Case Study Part */
+.h-570 {
+    height: 369px;
+}
+.case-study-col {
+    margin-top: 5%;
+}
+.case-study-col h2 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.case-study-col p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.border-icon1 {
+    width: 24%;
+}
+.carousel-box {
+    height: 370px;
+}
+.carousel-item-img {
+    width: 70px;
+    height: 70px;
+    top: 35px;
+}
+.carousel-item-img img {
+    width: 18px;
+}
+.carousel-item-content h4 {
+    font-size: 12px;
+}
+.carousel-item-content p {
+    font-size: 10px;
+    margin: 12px 0px 20px;
+}
+.carousel-item-content {
+    bottom: 70px;
+}
+.carousel-item-content a {
+    padding: 8px 30px;
+    font-size: 8px;
+}
+.carousel-indicators {
+    bottom: 0px;
+}
+/* Overview Part */
+.overview-content-img {
+    width: 170%;
+    height: 100px;
+}
+.overview-align h4 {
+    font-size: 25px;
+}
+.overview-align p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.overview-content-img::after {
+    left: 0px;
+}
+.overview-content-img img {
+    left: 31%;
+}
+/* Our Pricing Part */
+.pricing-head h2 {
+    font-size: 28px;
+}
+.pricing-head p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.starter {
+    height: 140px;
+}
+.starter h4 {
+    display: table;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.pricing-col {
+    height: 400px;
+}
+.price {
+    top: 35%;
+}
+.price-content h5 {
+    font-size: 25px;
+}
+.price::after {
+    top: 15px;
+    left: 15px;
+    width: 75%;
+    height: 75%;
+}
+.price::before {
+    top: 7px;
+    left: 7px;
+    width: 88%;
+    height: 88%;
+}
+.price-discription p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.price-discription a {
+    font-size: 9px;
+}
+/* Our Team Part */
+.team-heading h2 {
+    font-size: 30px;
+}
+.team-heading p {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.member-img {
+    top: 70px;
+    left: 12px;
+}
+.member-img-2 {
+    top: 53px;
+    left: 12px;
+}
+.member-img-3 {
+    top: 60px;
+    left: 12px;
+}
+.member-img-4 {
+    top: 80px;
+    left: 10px;
+}
+.member-img-5 {
+    top: 55px;
+    left: 10px;
+}
+.img-content {
+    bottom: -260px;
+    left: 10px;
+}
+.top-border {
+    height: 60%;
+    left: 39%;
+}
+.img-content h5, .img-content-2 h5, .img-content-3 h5, .img-content-4 h5, .img-content-5 h5 {
+    font-size: 15px;
+}
+.img-content-2 {
+    bottom: -242px;
+    left: 10px;
+}
+.img-content-3 {
+    bottom: -250px;
+    left: 10px;
+}
+.img-content-4 {
+    bottom: -270px;
+    left: 10px;
+}
+.img-content-5 {
+    bottom: -247px;
+    left: 10px;
+}
+/* Great Integrations with Others Part */
+.great h2 {
+    font-size: 28px;
+}
+.great p {
+    font-size: 13px;
+}
+/* Our Blog */
+.blog-img {
+    width: 100%;
+}
+.blog h2 {
+    font-size: 30px;
+}
+.blog p {
+    font-size: 13px;
+}
+/* Keep In Touch */
+.keep-heading h2 {
+    font-size: 30px;
+}
+.keep-heading p {
+    font-size: 13px;
+}
+.keep-content-add {
+    padding: 30px 30px 30px 30px;
+}
+.keep-content-add h5 {
+    font-size: 17px;
+}
+.keep-content-add p {
+    font-size: 13px;
+}
+.keep-content-add a {
+    font-size: 13px;
+}
+.form-group {
+    margin-bottom: 0rem;
+}
+.form-control {
+    line-height: 17px;
+}
+.form-btn {
+    font-size: 11px;
+    margin-top: 7%;
+}
+/* Get Started Part */
+.get-heading h2 {
+    font-size: 30px;
+}
+.get-heading p {
+    font-size: 13px;
+}
+.get-btn {
+    font-size: 10px;
+}
+/* Footer Part */
+.social-icons i {
+    margin-right: 13px;
+    font-size: 12px;
+}
+.copyright p {
+    font-size: 12px;
+}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+/* Head Part */
+.header-bg {
+    height: 400px;
+}
+.navbar-light .navbar-brand {
+    width: 17%;
+}
+.carousel-inner-heading {
+    top: 38%;
+}
+.carousel-prev, .carousel-next {
+    width: 10%;
+    height: 60%;
+}
+.carousel-inner-heading h5 {
+    font-size: 15px;
+}
+.carousel-inner-heading h1 {
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+.border-icon {
+    width: 23%;
+}
+/* Carousel Part Start */
+.carousel-inner-heading p {
+    font-size: 11px;
+    padding-top: 12px;
+}
+.carousel-inner-heading a {
+    font-size: 9px;
+}
+.custom-btn-1 {
+    padding: 12px 25px;
+}
+.custom-btn-2 {
+    padding: 12px 38px;
+}
+/* Carousel Part End */
+/* Quality Part */
+.quality {
+    margin-bottom: 5%;
+}
+/* Our History Part */
+/* Our Service Part */
+.service-col {
+    padding-right: 0%;
+    text-align: center;
+}
+.service-col h6 {
+    margin-top: 7%;
+}
+.service-col h2 {
+    font-size: 30px;
+    padding-right: 0;
+    text-align: center;
+}
+.right-border {
+    width: 45%;
+    margin: 36px auto 90px auto;
+}
+.middel-icons-1 {
+    right: 55%;
+    top: 19%;
+}
+.middel-icons-2 {
+    right: 55%;
+    top: 46%;
+}
+.middel-icons-3 {
+    right: 54%;
+    top: 73.5%;
+}
+.service-col p {
+    width: 80%;
+}
+/* Recent Works Part */
+.recent-works h2 {
+    font-size: 30px;
+}
+.recent-works p {
+    font-size: 13px;
+}
+.menu-2 a {
+    font-size: 10px;
+}
+/* Case Study Part */
+.carousel-box {
+    width: 80%;
+    top: 316px;
+    right: -30%;
+}
+/* Overview Part */
+.overview {
+    height: auto;
+}
+.overview-content-img {
+    width: 200px;
+    height: 125px;
+}
+.overview-content-img::after {
+    top: 20%;
+    left: 30%;
+}
+.overview-content-img img {
+    top: 70%;
+    left: 60%;
+}
+/* Our Pricing Part */
+.pricing-head h2 {
+    font-size: 30px;
+}
+.pricing-head p {
+    font-size: 13px;
+}
+.border-icon1 {
+    width: 33%;
+}
+.starter {
+    height: 120px;
+}
+.starter h4 {
+    font-size: 20px;
+}
+.price-content h5 {
+    font-size: 20px;
+}
+.price-discription {
+    line-height: unset;
+    font-size: 11px;
+    width: 92%;
+}
+.pricing-col {
+    height: 350px;
+}
+.price {
+    width: 90px;
+    height: 90px;
+    top: 38%;
+}
+.price::before {
+    top: 2px;
+    left: 2px;
+}
+.price-discription a {
+    font-size: 9px;
+}
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+.blog-img {
+    width: 100%;
+}
+.blog-content {
+    padding: 5%;
+}
+.blog-content h6 {
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+.blog-content h5 {
+    font-size: 25px;
+}
+.blog-content p {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 13px;
+}
+/* Keep In Touch */
+.keep-heading h2 {
+    font-size: 30px;
+}
+.keep-heading p {
+    font-size: 13px;
+}
+/* Get Started Part */
+.get-heading h2 {
+    font-size: 30px;
+    margin-top: 7%;
+}
+.get-heading p {
+    font-size: 13px;
+}
+.get-btn {
+    padding: 11px 20px;
+    font-size: 10px;
+}
+/* Footer Part */
+.social-icons i {
+    margin-right: 10px;
+    font-size: 11px;
+}
+.copyright p {
+    font-size: 11px;
+}
+}
+
+@media (max-width: 575.98px){
+/* Head Part */
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+/* Our Service Part */
+/* Recent Works Part */
+/* Case Study Part */
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
+}
+
+@media (max-width: 425.98px){
+    /* Head Part */
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+/* Our Service Part */
+/* Recent Works Part */
+/* Case Study Part */
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
+}
+
+
+
+/* Head Part */
+/* Carousel Part Start */
+/* Carousel Part End */
+/* Quality Part */
+/* Our History Part */
+/* Our Service Part */
+/* Recent Works Part */
+/* Case Study Part */
+/* Overview Part */
+/* Our Pricing Part */
+/* Our Team Part */
+/* Great Integrations with Others Part */
+/* Our Blog */
+/* Keep In Touch */
+/* Get Started Part */
+/* Footer Part */
